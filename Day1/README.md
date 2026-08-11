@@ -1,3 +1,7 @@
+# Github & Python Basics
+
+Basic concepts including some data structures + git & github basics revised.
+
 # Student Grading System
 
 A simple, interactive command-line Python application that calculates a student's overall average and letter grade based on their subject marks.
