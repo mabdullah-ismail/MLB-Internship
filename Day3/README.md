@@ -13,7 +13,7 @@
 ### 3. Systematic Problem-Solving Approach
 
 
-## 🛠️ Hands-On Practice Problems
+##  Hands-On Practice Problems
 
 All 15 practice tasks are implemented in [practice_problems.py]
 
