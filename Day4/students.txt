@@ -1,0 +1,5 @@
+Student Name: Abdullah Ismail
+Course: Computer Science
+Semester: 5
+Status: Active
+City: Lahore

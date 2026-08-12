@@ -1,0 +1,14 @@
+[
+    {
+        "name": "abdullah",
+        "roll_number": "123a",
+        "age": 15,
+        "course": "science"
+    },
+    {
+        "name": "usman",
+        "roll_number": "123b",
+        "age": 19,
+        "course": "science"
+    }
+]
