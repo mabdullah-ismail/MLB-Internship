@@ -1,0 +1,31 @@
+[
+  {
+    "type": "Book",
+    "title": "Bang-e-Dra",
+    "author": "Allama Iqbal",
+    "id": "101",
+    "is_borrowed": false
+  },
+  {
+    "type": "EBook",
+    "title": "Peer-e-Kamil",
+    "author": "Umera Ahmed",
+    "id": "102",
+    "is_borrowed": false,
+    "file_size": "4MB"
+  },
+  {
+    "type": "Book",
+    "title": "Raja Gidh",
+    "author": "Bano Qudsia",
+    "id": "103",
+    "is_borrowed": true
+  },
+  {
+    "type": "Book",
+    "title": "abc",
+    "author": "abcd",
+    "id": "1234",
+    "is_borrowed": false
+  }
+]
